@@ -16,7 +16,7 @@ const PostListItem = () => {
                 <button
                     type="button"
                     className="btn-trash btn-sm">
-                    <i className="fa fa-trash-o"></i>
+                    <i className="fas fa-trash"></i>
                 </button>
                 <i className="fa fa-heart"></i>
             </div>
